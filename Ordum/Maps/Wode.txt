@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-05-28T15:15:40-06:00
-
-====== Wode ======
-Created Tuesday 28 May 2019
-
