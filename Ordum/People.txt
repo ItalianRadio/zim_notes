@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T18:24:03-06:00
 
 ====== People ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum|back]]
 
 While traveling [[Ordum]], you will never find a completely homogenous culture. Even those cultures that are hostile to outsiders still capture slaves and command retainers to do that which they cannot. Make sure you remember that even the smallest Dwarf village in Dwargon may have a human or elf living amongst them.
 

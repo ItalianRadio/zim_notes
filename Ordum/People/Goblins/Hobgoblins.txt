@@ -3,5 +3,5 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T18:52:11-06:00
 
 ====== Hobgoblins ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum:People:Goblins|back]]
 
