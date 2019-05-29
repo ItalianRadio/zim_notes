@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-28T18:36:38-06:00
+
+====== Lizardfolk ======
+Created Tuesday 28 May 2019 - [[ordum:People|back]]
+
+Lizardfolk values vary greatly depending on gender. A male lizardfolk is expected to be strong, provide meat for his tribe and all else is considered secondary. A female lizardfolk is expected to have some knowledge of magic, be it primal, arcane, or divine. Male lizardfolk consider it womanly to practice magic, but are more accepting of those that use primal magics like rangers or druids, and those that secondarily use divine magic like paladins. An eldritch knight, no matter how strong their blade may be, will still be looked upon with scorn for having to resort to the womanly ways of magic. Females are depended on to tend to their men and are expected to learn healing or supporting magic of some kind at a young age. Both men and women of a lizardfolk tribe march to war when needed by their tribe.
+
+==== Meritocratic Rule ====
+A lizardfolk tribe is ruled by a chieftan and a shaman. While not necessarily mated, the two rule the tribe together and one cannot make important decisions without the other. Lizardfolk live fairly free lives, being able to do as they wish and always being welcome back home with their tribe. Lizardfolk primarily reside in the swamps of Rhageer Barony and generally compete with the orcs for the title of Baron of their lands. Lizardfolk children begin training for war at an extremely young age, learning to hunt and defend their village from the monsters of the swamp.
+
+==== Lizard Villages ====
+Lizardfolk tend to live in smallish villages of around 100 people. Villages tend to be rather close together, about half a days walk apart. A lizardfolk ruling pair will rule over around 4-8 villages based on their proximity. You will also find lizardfolk in any small town as they tend to avoid the filth of large cities, the exception being the front line of the war. The lizardfolk view going to war as their duty and it is common for a lizardman or woman to spend a few years in the military before going on with their lives.
+
+==== Magic and Lizardfolk ====
+Female lizardfolk specialize in casting magic and are often born with the ability required to become sorcerers. You often find clerics, sorcerers, and druids amongst female lizardfolk. The only true casters you will find among the males will be druids, and almost all of them will belong to the Circle of the Moon. Male practicioners of arcane magic that live amongst their kind will hide their magic. Most would die before revealing their secrets. Wizards will leave their village to study, warlocks will hide their magics, and martial warriors that practice arcane magics will tend to join the military for the rest of their lives, being useful to their kind and living in a place where they will be praised for their skills instead of scorned.

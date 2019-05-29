@@ -6,3 +6,39 @@ Creation-Date: 2019-05-28T16:15:26-06:00
 Created Tuesday 28 May 2019
 
 Dwarf/Mind Flayer/Minotaur/Shadar-Kai/Thri-Kreen
+
+The northern half of Ordon is dominated by the kingdom of Dwargon, but the northmost wastes have yet to be conquered by the warlike peoples. Ruled by sentient Undead who care naught for the southern half of their region and dragons who wish for nothing, but to be left alone, the wastes are a dangerous land for even the strong.
+Dwargon is a country that is ruled by the tenant, "Ekur dibcol kÃrar", in Dwarven, or "Might makes right," in common. Both it and its capital are named after the Dwarven Saint, the first Invincible Overlord, Dwar. The capital is separated into two halves. The lower half, where the layfolk live and toil. It is lightly guarded and is a massive farming town ruled by a governor with no real political power. The upper half is a floating island constructed by the first Invincible Overlord.
+
+===== The Six Territories =====
+Dwargon is divided into 6 provincial areas. All have local government, with the provinces being more self-governed than the baronies.
+
+==== Rhaghammer Barony ====
+The most influential of the territories is Rhaghammer Barony, which contains the floating capital, Dwar. On the northern side of Dwar is a massive lake that feeds the crops of this otherwise desert-like area. To the East is the mountainous territory that the dwarves crave.
+
+==== Drahgforger Barony ====
+Drahgforger Barony is the land of those too strong or too wise to execute. This barren wasteland is ruled by those too valuable for the Invincible Overlord to kill, but too free for the Overlord's taste.
+
+==== Shishk'Klik Province ====
+Ruled by The Matriarch, the most powerful of the Thri-Kreen, Shishk'Klik Province is a land that most would consider barren. Dwarf, minotaur, and human slaves a long time ago. They have bred into a minotaur slave stock and a half-human, half-dwarf stock that call themselves the mul.
+
+==== Rastris Province ====
+Originally a Barony given to the minotaurs by the first Empress Paloma, it is now a Province after the betrayal performed by Dwar. Still ruled by the minotaur, Rastris is the most peaceful land of Dwargon, resting right next to the ancestral battlefield.
+
+==== Xezirizz Province ====
+Land given to the illithid so that they would fight alongside the people of Dwargon in their attempts to take over Asharia. Not much is known about their subterrainean home as the dwarves that watched their ancient mines being filled with the illithid and their slaves are long since dead.
+
+==== Saur Province ====
+The province given to the elves that sided with Doar'tz long ago. While they themselves wish to rule their ancestral home in Estral, Asharia, they will make due with that which was given to them by the almighty Doar'tz. In the past, Overlords have been punished by Doar'tz for trying to strip that which was given and as such this land will always belong to the void elves so long as the followers of Doar'tz rule. To the north of Saur is the Great Wastes, lands ruled by sentient undead that command legions of their folk. As such, the avari must be constantly vigilant on that border so that the attacks may always be repelled.
+
+==== The Wastes ====
+The wastes are separated into two portions, the Dragon Wastes and the Noth. The Dragon wastes are ruled by a vast number of Dragons, their kin, and worshipers. While the undead knights of the Noth constantly attack the avari province of Saur.
+
+=== The Dragon Wastes ===
+The Dwargon attempted to conquer the mighty beasts once, but the attempt failed so miserably that it ingrained a racial hatred and fear of dragons in the minds of many dwarves, minotaurs, and their descendants.
+
+=== The Noth ===
+Undead live here
+
+
+{{.\Dwargon.png?width=700}}

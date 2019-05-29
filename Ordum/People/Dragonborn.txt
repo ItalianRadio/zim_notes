@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-28T18:34:46-06:00
+
+====== Dragonborn ======
+Created Tuesday 28 May 2019 - [[ordum:People|back]]
+
+A proud race created by a proud god, dragonborn aim to live simple lives protecting their crops and livestock. Traditionally living in the eastern savannahs of Asharia, the dragonborn live in houses miles from their neighbors. While they come together twice a week to exchange crops, creations, and gossip, dragonborn tend to keep to themselves.
+
+==== Duty and Military ====
+Putting a tremendous value on doing their duty, nearly all dragonborn view it as necessary to serve in the military at the very least once in their youth before deciding their path in life. They do not respect those that do not do their duty to the point where they will challenge those dragonborn that misrepresent their race to duels to the death.
+
+==== Shared Territory ====
+As they share a barony with the goliaths, they have a yearly summit at the foot of the mountains where they decide political matters and declare who shall be baron and who shall be count with their bravest warriors participating in a tournament where the victor is put in charge.
+
+==== Coloring ====
+While a dragonborn's coloring has nothing to do with its alignment, a chromatic dragonborn will still be feared in urban environments where ignorance breeds fear. On the other hand, a metallic dragonborn will invoke awe in lower class citizens simply with its prescence. While this effect a dragonborn may have on other citizens is real, it may not reflect their personality. A black dragonborn may be a priest of Weiss while a golden may be an Oathbreaker paladin.
+
+==== Blessing of Baldyr ====
+Upon their birth, each dragonborn will receive a blessing from the god Baldyr, with it Baldyr will bestow one of the three Dragonborn racial feats from Xanathar's Guide to Everything, (Dragon Fear, Dragon Hide, or Dragon Wings) blessing the dragonborn with a fearsome prescence, tougher scales and imposing claws, or powerful wings.
+If you choose Dragon Fear of Dragon Hide, you will not receive the bonus attribute point.

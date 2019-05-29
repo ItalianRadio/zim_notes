@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-28T18:24:03-06:00
+
+====== People ======
+Created Tuesday 28 May 2019
+
+While traveling [[Ordum]], you will never find a completely homogenous culture. Even those cultures that are hostile to outsiders still capture slaves and command retainers to do that which they cannot. Make sure you remember that even the smallest Dwarf village in Dwargon may have a human or elf living amongst them.
+
+[[+Aarakocra|Aarakocra]]
+[[+Aasimar|Aasimar]]
+[[+Dragonborn|Dragonborn]]
+[[+Dwarves|Dwarves]]
+[[+Eidolons|Eidolons]]
+[[+Elves|Elves]]
+[[+Firbolgs|Firbolgs]]
+[[+Genasi|Genasi]]
+[[+Gith|Gith]]
+[[+Gnomes|Gnomes]]
+[[+Goblins|Goblins]]
+[[+Goliaths|Goliaths]]
+[[+Half-Elves|Half-Elves]]
+[[+Halflings|Halflings]]
+[[+Half-Orcs|Half-Orcs]]
+[[+Humans|Humans]]
+[[+Illithids|Illithids]]
+[[+Kenku|Kenku]]
+[[+Kobolds|Kobolds]]
+[[+Lizardfolk|Lizardfolk]]
+[[+Merfolk|Merfolk]]
+[[+Minotaur|Minotaur]]
+[[+Mul|Mul]]
+[[+Orcs|Orcs]]
+[[+Tabaxi|Tabaxi]]
+[[+Thri-Kreen|Thri-Kreen]]
+[[+Tieflings|Tieflings]]
+[[+Tortles|Tortles]]
+[[+Triton|Triton]]
+[[+Yuan-ti|Yuan-ti]]

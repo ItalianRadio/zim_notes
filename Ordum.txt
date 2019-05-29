@@ -5,3 +5,16 @@ Creation-Date: 2019-05-28T15:14:35-06:00
 ====== Ordum ======
 Created Tuesday 28 May 2019
 
+====== The Land of Ordum ======
+The world of Ordum was created by the God Ord, and was named after them. Most would say that Ordum is divided into five distinct regions. These regions all have their own culture, laws, and countries. The regions are as follows:
+* Dwargon, the northern war-waging kingdom
+* [[+Places:Nagano Ocean:Nazura|Nazura]], the sea-faring island kingdom
+* [[+Places:Tharosa Ocean:Fairafax|Fairafax]], the submerged kingdom
+* [[+Places:Granzund:Asharia|Asharia]], the southern republic
+* [[+Places:Uluin Maelstrom|Uluin]], the malestrom to the Deep
+
+Bookmarks: [[+People|People]] | [[+Places|Places]] | [[+Planes|Planes]] | [[+Religion|Religion]]
+
+{{.\OrdumHexHiRes.png?height=1000}}
+
+

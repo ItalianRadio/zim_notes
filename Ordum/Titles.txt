@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-28T18:38:21-06:00
+
+====== Titles ======
+Created Tuesday 28 May 2019
+
+Titles in Ordum are given to those that hold respect among the people of the land. They are magically endowed with a power known as Blood Magic. Blood magic is possessed by those that hold titles and with it, they can bestow lesser titles to those around them with some restrictions. A title of equal rank can only be taken or given, this means that there can never be more than 4 Emperors.
+Titles mean everything to those that attend court in a country. It is a status symbol, but also a show of how much your leader trusts you. If you are granted a title, you are expected to live up to it, whether that means putting yourself in danger for your lord, or simply managing you land is up to you.
+There are five titles that can be conferred, with three of them having the ability to further confer titles. Although these titles have names given to them by Ord, who created them, the owner of such a title may choose to go by another name. This is common with those that posses the emperor title, but becomes increasingly uncommon at even the title of Baron. The five titles are listed in descending order of power.
+
+===== Emperor or Empress =====
+The title of empress was first given by Ord to the first Queen of the Dwarves, Paloma. Ord went on to give titles to the wisest creature in Asharia, to the emperor of the kingdom, Nazura, to the ruler of the weissfolk kingdom, Fairafax, and finally to she who rules The Deep. Since the first conferrence of titles, there has never been more than four Emperors. Since then, the name typically given to the realm controlled by an Emperor is called a country.
+Simply becoming an Emperor changes a person. They become more powerful and able. They gain skills that allow them to more easily control a realm. Additionally, they gain the power to confer the title of Baron or Prelate to up to eight individuals.
+
+==== The First Empress Paloma ====
+The first person to be conferred a title was the person to unite and rule the Dwarven kingdom. Her name was Paloma Strongswing and she decided to name her kingdom Dwargon after the saint she worshipped. After she succesfully defended her kingdom from those that wished to take it she began to expand it outwards, taking in the surrounding kingdoms. She first took the Thri-Kreen kingdom into her own, then proceeded to conquer the Illithid and the Avari. After such a successful campaign, the God Ord came to her and granted her the first title of power -- Empress. So as to not upset the other gods, Ord then went to the other three kingdoms and granted their leaders titles of power. Ord further provoked Doar'tz by not granting his kingdom a title of power and due to this slight, Doar'tz began to spread his influence amongst Ord's favored kingdom, Dwargon.
+
+=== Titles Simplified ===
+A title gives power to the individual that holds it. Additionally, when you have a title, you are given the land associated with that title. Finally, if you become an Emperor or a Baron, you gain the ability to further confer titles
+
+===== Baron or Baroness =====
+The title of baron was first given by Paloma to her right-hand-man, the Minotaur, Petros. With it, he ruled what was once called the Barony of Rastris.
+Upon becoming a Baron, a person will gain necessary skills needed to govern a barony. Additionally, they will become slightly subservient to the one that granted them the title of Baron. Finally, the gain the power to confer the title of Count or Duke to up to four individuals
+
+===== Prelate =====
+The title of prelate was created by the first Invicible Overlord Dwargon. He created the title to both demean and separate those with the title from his trusted Barons, but still give the races that he needed to control a degree of power. Someone with the title of Prelate will have a greater degree of political freedom in the emperor's kingdom, but will lose all that freedom when the emperor calls upon them. The emperor must use this power sparingly, as the blood magic that will control the prelate's province cannot be invoked often.
+A prelate cannot confer titles to those below them, but gains necessary skills to govern a province.
+
+===== Count or Countess =====
+The title of count is given to those a baron trusts with land to rule. They become subservient to the baron that grants them the title, but do not necessarily have to obey them.
+A count can confer no titles and gains the skill the govern a county.
+
+===== Duke or Duchess =====
+The title of duke is given to those a baron does not trust, but must give land to rule. They are similar in relation to the prelate, where they must occasionally obey commands in exchange for greater political freedom.
+A duke can confer no titles and gains the skills necessary to govern a dukedom.

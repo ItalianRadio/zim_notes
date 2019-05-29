@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-28T18:35:16-06:00
+
+====== Elves ======
+Created Tuesday 28 May 2019 - [[ordum:People|back]]
+
+Elves are a proud race that can be found in nearly all reaches of Ordum, from the high-elves that rule Estral Barony, to the wood elves that reside in Talroc, elves can easily be found in Asharia. The shadar-kai can be found serving the Overlord all across Dwargon, the drow residing in the Deep are a deadly force, even in the depths of the ocean you'll find sea elves assisting the weissfolk in the their never-ending battle.
+
+===== Eladrin =====
+This group of elves live their lives in the Wode. None but the Green can find their homes as they are hidden with fae magics and the ever-present wild of the wode.
+
+===== Drow =====
+Residing in the Deep, the drow worship Doar'tz with a reckless adulation and violently assault all who would choose any other path. Few are capable of leaving the Deep as the labyrinths leading to the material plane are too much for them, finally those that do must navigate the frozen maelstrom before finally sneaking past the miners that come for the ice. 
+Those who managed to escape or were living outside the Deep when the Gods closed froze the portal have banded together with the yuan-ti to help serve the spider clan. The female drow, still being matriarcal in nature, will mostly refuse to work with all but the strongest men, and the strongest men all serve in clans that will not take outsiders in. This means that the drow vanguard, the strongest amongst the drow, serve only the Spider Clan, as the yuan-ti are also matriarcal in nature. The men of the drow however, have branched out and will serve other masters so long as they can live a peaceful life. You will find them under the protection of all sorts of clans as merchants, farmers, and scholars. These male drow will often marry outside their race, much to the matriarchy’s intense displeasure, but the emperor lets them do nothing about this, so instead, they focus on furthering their interests in Nazuran Empire.
+
+===== High Elves =====
+The rather xenophobic high elves rule Estral Barony. With the majority of the barony being hostile to outsiders, the high elves keep to themselves, tending to only leave their barony to send troops to the war. Not much is known about these elves as few outsiders are allowed too far into the barony.
+
+===== Sea Elves =====
+Elves that became friends with the triton and wished to help them in their plight.
+
+===== Shadar-kai =====
+Those high elves that chose Doar'tz over Nyce were granted power. That power made their skin look like the night sky. But their kin couldn't understand why one would leave Nyce's protection and they were exiled, left to join forces with the Dwargon. Now living in Saur, the avari want nothing more than to kill those kin living in their ancestral home and to take it back for themselves.
+
+===== Wood Elves =====
+Along with firbolgs, the wood elves are the ancient protectors of the forest. Created by Nyce to protect that which they created, the wood elves both protect the forest from the people living in it as well as protect the people of the forest from that which they reside in. Helping monitor that careful balance, the wood elves are looked upon with respect by most denizens of Asharia.

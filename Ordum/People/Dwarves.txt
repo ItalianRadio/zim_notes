@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-28T18:34:57-06:00
+
+====== Dwarves ======
+Created Tuesday 28 May 2019 - [[ordum:People|back]]
+
+Dwarves are the dominant race in all of central Dwargon, ruling the provinces of Rhaghammer and Draghforger they make up nearly eighty percent of the population of those two baronies. You will be able to find them en masse in any province of Dwargon and you will rarely find them anywhere except a port-town in Asharia. They will deal with Nazura and Fairafax, so do not be surprised to see dwarves that have picked up and moved to those two countries as both are accepting to anyone that follow their laws and respect their culture. The best armorsmiths in Ordum are Dwarves as well.
+
+===== Duergar =====
+The Duergar or gray dwarves are dwarves that were taken home by Doar'tz to be observed and experimented upon. The normally determined and ambitious dwarves have become jaded and less devoted to their god and instead seem to have abandoned Doar'tz entirely. Wishing for nothing, but to escape the Deep, the Duergar are naught but slaves to Doar'tz's whims.
+
+==== Playing a Duergar ====
+A player wishing to play a Duergar must both realize that they will be shunned in Asharia and that they must somehow have escaped Doar'tz's clutches if they wish to not conform to Doar'tz's plans.
+
+===== Hill =====
+The majority of hill dwarves live their lives as farmers and soldiers in the great army of Dwargon. The farmers farm the hills surrounding the floating city in the Barony of Dwar.
+
+===== Mountain =====
+Originally making their homes in the mountains surrounding Dwar, the mountain dwarves bear a deep racial grudge against Doar'tz for forcing them to abandon their homes and leave their mountains to the incoming illithid army. The mountain dwarves, now homeless either became skilled laborers in their racial cousins', the hill dwarves, towns, or moved to the coast to create underground homes in the desert or coastal areas.

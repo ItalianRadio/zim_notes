@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-28T18:35:04-06:00
+
+====== Mul ======
+Created Tuesday 28 May 2019 - [[ordum:People|back]]
+
+A half-human, half-dwarf bred by the thri-kreen so that they could have a solid slave-base. The mul are tireless, needing only to sleep once every three days in addition to having some of the resilence bred into them from their dwarven ancestors. Dwarves treat the mul as an abomination against nature as the mul have the traditional stockiness of the dwarves, but average around 6 feet in height. Humans on the other hand do not discriminate in the slightest at first glance as most humans can't even tell a strong human and a normal mul apart to begin with. A creature revealed as a mul will be viewed with scorn as Asharians merely view them as the Thri-kreen's "little" helpers.
+
+==== Playing a Mul ====
+A player wishing to play a mul must realize that they will be scorned where ever they go. In Dwargon they will be viewed as escaped slaves and in Asharia they will be looked upon with pity and scorn for helping their thri-kreen masters.

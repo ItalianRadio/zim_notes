@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-28T18:37:35-06:00
+
+====== Tieflings ======
+Created Tuesday 28 May 2019 - [[ordum:People|back]]
+
+Tieflings are the sons and daughters of the ancestors of the children conceived with Razalak. Tieflings can be born from any race, with their traits being based on their parent's traits. While the races listed below are the typical races for a tiefling to be born of, any variant of tielfing can be born of any race. The typical occurs nine out of ten times. While a tiefling born of illithids will grow up speaking deep speech, they will not have tentacles surrounding their mouth, but they might not have facial hair and will have a build very similar to that of an illithid.
+
+==== Born to Be Wild ====
+Tieflings tend to be more chaotic than their parents, seeking adventure and often living in large cities. While tieflings are not feared, they are often scrutinized very thoroughly due to their penchant to be willing to perform more undesirable tasks. A tiefling adventurer may be told to empty their pockets after leaving a more affluent store by the local guards and a tiefling businessman may want to hire an intermediary to sit in on discussions so that they will not be accused of beguilement or theft.

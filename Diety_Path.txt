@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-28T18:08:22-06:00
+
+====== Diety Path ======
+Created Tuesday 28 May 2019
+
+[[..\Deity Path.pdf|Link to pdf]]

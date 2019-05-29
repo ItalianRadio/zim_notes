@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-28T18:50:46-06:00
+
+====== Gnomes ======
+Created Tuesday 28 May 2019 - [[ordum:People|back]]
+
+Gnomes tend to keep to themselves, living in small communities, insulated from the outside world. Due to this, you'll never know where you'll find a few living in the forest, dunes, mountains, or even under the sea.
+
+===== Deep Gnomes =====
+The svirfneblin or deep gnomes are gnomes that ventured into the deep, only to get lost and begin their lives anew amongst the terrors that are Doar'tz's creations. The gnomes normally chipper and curious demeanor has been hardened and turned apathetic to all things unrelated to gemfinding and survival.
+
+===== Forest Gnomes =====
+These gnomes are forest defenders. Like the elves and furbolgs, they protect the people from the forest and the forest from the people.
+
+===== Rock Gnomes =====
+The rock gnomes are born tinkerers. Where there is a village of one, the nearby neighbors will tend to know as the explosions they generate will be heard from all around.

@@ -6,3 +6,5 @@ Creation-Date: 2019-05-28T16:25:31-06:00
 Created Tuesday 28 May 2019
 
 Undead
+
+{{.\GreatWastes.png?width=700}}
