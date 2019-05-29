@@ -3,13 +3,13 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T15:18:57-06:00
 
 ====== Doar'tz the Sunken ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum:Religion|back]]
 
-* Patron God of:
-	* Corruption
-	* Redemption
-	* Forgiveness
-	* Un-Death
+Doar'tz's known saints and their domains are:
+* [[+Ai'Erik the Awakened|Ai'Erik the Awakened]]		Corruption
+* [[+Krawllyon the Redeemer|Krawllyon the Redeemer]]		Redemption
+* [[+Rodger the Necromancer|Rodger the Necromancer]]		Un-Death
+* [[+Usssa the Forgiven|Usssa the Forgiven]]			Forgiveness
 
 Doar'tz did not wish to add new creations to the world, and instead created a portal to their plane. The other Gods were greatly angered, but as they had all made a pact to no longer interfere directly with the world they had created, they decided to simply curse the portal's entrance to forever be surronded by an icy vortex, preventing creatures from simply entering the portal Doar'tz had created. In In retaliation Doar'tz created Eidolons in his image, but because he created them in vengeance, they were a soulless race, seeking to eliminate all those that oppose Doar'tz. Finally, Doar'tz took Tenshed's humans and attempted to corrupt them, creating the yuan-ti. Some yuan-ti, attempting to become closer to their master's image, embraced the corruption, became yuan-ti abominations. In hopes of containing the abominations that Doar'tz had let loose on this new plane, the other gods let denizens of their plane mix with the races of this new plane, creating the genasi. A race of people completely opposed to corruption.
 Doar'tz presides over negative energy and necromancy and is called upon by those that wish to use it. Doar'tz also presides over those that wish for redemption in their lives and will grant it to those that they deem worthy. Doar'tz requires its followers to constantly serve in penance by constantly causing pain to themselves and others.

@@ -3,13 +3,14 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T15:19:58-06:00
 
 ====== Ord the Worldmaker ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum:Religion|back]]
 
-* Patron God of:
-	* Earth
-	* Blacksmithing
-	* Strength
-	* Ambition
+Ord's known saints and their domains are:
+* [[+Dwar the Conquerer|Dwar the Conquerer]]	Ambition
+* [[+Nykos the Bountiful|Nykos the Bountiful]]	Blacksmithing
+* [[+Raku the Sturdy|Raku the Sturdy]]		Strength
+* [[+Salazz the Deep|Salazz the Deep]]		Earth
+
 Ord created the material plane and it is thusly named after him. They are responsible for the shapes of the mountains, valleys, seas, and rivers that exist all over Ordum. Finally, Ord created the Dwarves in their image, making them sturdy like the earth and as ambitious as Ord themself. Ord, after observing Tenshed create the greatly ambitious humans created the giantkin and minotaur.
 Ord presides over earth and is called upon by miners, mountain-dwellers, and cave-dwllers. Ord also presides over the ambition that dwells within every sentient creature.
 Ord resides in and rules Ber, the iron crucible.

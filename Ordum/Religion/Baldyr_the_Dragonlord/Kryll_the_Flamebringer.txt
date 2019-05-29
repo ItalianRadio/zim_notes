@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T15:17:03-06:00
 
 ====== Kryll the Flamebringer ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum:Religion:Baldyr the Dragonlord|back]]
 
 * Saint of Dragons
 * Male

@@ -3,15 +3,15 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T15:21:14-06:00
 
 ====== Weiss the Holy ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum:Religion|back]]
 
-* Patron God of:
-	* Health
-	* Light
-	* Water
-	* Ice
-	* Ocean
-	* Multi-Faceted
+Weiss' known saints and their domains are:
+* [[+Delde the Current|Delde the Current]]		Water
+* [[+Guai the Stoic|Guai the Stoic]]			Ice
+* [[+Hama the Tide|Hama the Tide]]			Light
+* [[+Heden the Sin-Taker|Heden the Sin-Taker]]		Multi-Faceted
+* [[+Turi the Tempestuous|Turi the Tempestuous]]	Ocean
+* [[+Vanora the Healer|Vanora the Healer]]		Health
 
 Weiss added water and ice to the world as well as creatures that could live in it. They are responsible for filling the great oceans of the world, as well as the rivers, lakes, and seas. Weiss then created the Merpeople, Triton, and Tortle to populate their oceans, but the Merfolk and Tritons envied those that lived on the land and did not appreciate the realm that Weiss has bestowed upon them, thus Weiss abandoned their creations that wished to expand their territory to the land. Finally, Weiss created the Aasimar in their image, creating creatures that showed the love and compassion that their creator had for the world.
 Weiss presides over water and is called upon by those that wish to use it. Weiss also presides over those that wish to bring light and love to the land and will aid any that wish to bring harmony to the world, or merely a simple conversation.

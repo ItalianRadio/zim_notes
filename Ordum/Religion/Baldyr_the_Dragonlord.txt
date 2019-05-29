@@ -3,15 +3,17 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T15:16:54-06:00
 
 ====== Baldyr the Dragonlord ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum:Religion|back]]
 
-* Patron God of:
-	* Fire
-	* Dragons
-	* Magic
-	* Knowledge
+Baldyr's known saints and their domains are:
+* [[+Ann the Pyromancer|Ann the Pyromancer]]		Fire
+* [[+Hime the Wick|Hime the Wick]]			Knowledge
+* [[+Joshua the Pontiff|Joshua the Pontiff]]		Magic
+* [[+Kryll the Flamebringer|Kryll the Flamebringer]]	Dragons
 
 Baldyr created the magic of this world, adding magic to the creatures already residing in the plane. This created the magical beasts and plants of the realm. Finally, Baldyr created Dragons in their image, making them knowledgable in all Baldyr deemed useful as well as giving each dragon a portion of their power. Dragons then went on to use the power that Baldyr bestowed upon them to further create the Dragonborn and several other minor races such as the kobolds and lizardfolk.
 Baldyr presides over magic and fire and is called upon by those that wish to use it. Baldyr also presides over the knowledge that every sentient creature possesses.
 Baldyr resides in and rules Doomfire, the burning lands.
 Baldyr's chosen weapons are the heavy pick or simply a creature's bite and their symbol is the circling dragon. Badlyr's color is red.
+
+

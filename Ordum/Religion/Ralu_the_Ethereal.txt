@@ -3,13 +3,13 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T15:20:11-06:00
 
 ====== Ralu the Ethereal ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum:Religion|back]]
 
-* Patron God of:
-	* Wind
-	* Flight
-	* Freedom
-	* Planning
+Ralu's known saints and their domains are:
+* [[+Aki the Mariner|Aki the Mariner]]			Planning
+* [[+Kree the Wistful|Kree the Wistful]]			Flight
+* [[+Urrac the Windbringer|Urrac the Windbringer]]	Wind
+* [[+Whoosh the Free|Whoosh the Free]]		Freedom
 
 Ralu added creatures of the sky to this world, populating the skies as well as introducing enchantments to the world, allowing the imbuement of magic into arms, armor, and items. Finally, Ralu created the Aarakocra in their image, creating creatures that could live in the skies with their creations. One of Ralu's Aarakocra tried to steal from them and thus Ralu cursed them, taking their flight and ability to speak. Thus, Ralu created the Kenku.
 Ralu presides over air and is called upon by those that wish to use it. Ralu also presides over those who wish to gain their freedom from oppression and will aid those that pray to them asking for freedom.
