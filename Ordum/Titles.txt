@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T18:38:21-06:00
 
 ====== Titles ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum|back]]
 
 Titles in Ordum are given to those that hold respect among the people of the land. They are magically endowed with a power known as Blood Magic. Blood magic is possessed by those that hold titles and with it, they can bestow lesser titles to those around them with some restrictions. A title of equal rank can only be taken or given, this means that there can never be more than 4 Emperors.
 Titles mean everything to those that attend court in a country. It is a status symbol, but also a show of how much your leader trusts you. If you are granted a title, you are expected to live up to it, whether that means putting yourself in danger for your lord, or simply managing you land is up to you.

@@ -3,7 +3,19 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T16:14:46-06:00
 
 ====== Places ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum|back]]
+
+===== Granzund =====
+[[+Granzund|link]]
+Contains Asharia, Dwargon, the Dragon Wastes, & the Noth
+
+===== Nagano Ocean =====
+[[+Nagano Ocean|link]]
+Contains Nazura
+
+===== Tharosa Ocean =====
+[[+Tharosa Ocean|link]]
+Contains Fairafax
 
 ===== Dwargon =====
 [[+Granzund:Dwargon|link]]
