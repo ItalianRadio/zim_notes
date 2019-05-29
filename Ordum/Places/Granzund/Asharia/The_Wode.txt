@@ -3,6 +3,8 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T16:26:46-06:00
 
 ====== The Wode ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum:Places:Granzund:Asharia|back]]
+
+Connects Ordum to the [[Ordum:Planes:Faewild|Faewild]]
 
 {{.\Wode.png?width=700}}
