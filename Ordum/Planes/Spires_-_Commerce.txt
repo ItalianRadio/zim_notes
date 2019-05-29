@@ -3,8 +3,8 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T16:10:25-06:00
 
 ====== Spires - Commerce ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum:Planes|back]]
 
 The plane of spires
 
-Home to Tenshed
+Home to [[ordum:Religion:Tenshed the Masked|Tenshed]]

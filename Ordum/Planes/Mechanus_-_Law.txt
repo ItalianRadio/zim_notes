@@ -3,8 +3,8 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T16:11:47-06:00
 
 ====== Mechanus - Law ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum:Planes|back]]
 
 The mechanical plane
 
-Home to Primus
+Home to [[ordum:Religion:Primus the Lawbinder|Primus]]

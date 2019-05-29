@@ -5,3 +5,13 @@ Creation-Date: 2019-05-28T16:09:38-06:00
 ====== Planes ======
 Created Tuesday 28 May 2019
 
+[[+Astral Sea|Astral Sea]]
+[[+Ber - Earth|Ber]]
+[[+Doomfire - Fire|Doomfire]]
+[[+Faewild|Faewild]]
+[[+Imi - Air|Imi]]
+[[+Mechanus - Law|Mechanus]]
+[[+Nine Hells|Nine Hells]]
+[[+Spires - Commerce|Spires]]
+[[+Thomo - Water|Thomo]]
+[[+Underdark|Underdark]]

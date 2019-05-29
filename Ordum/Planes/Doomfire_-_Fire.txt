@@ -3,8 +3,8 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T16:09:57-06:00
 
 ====== Doomfire - Fire ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum:Planes|back]]
 
 The burning lands, home to the city of brass
 
-Home of Baldyr
+Home of [[ordum:Religion:Baldyr the Dragonlord|Baldyr]]

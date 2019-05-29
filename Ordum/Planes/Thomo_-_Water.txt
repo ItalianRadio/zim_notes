@@ -3,8 +3,8 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T16:10:07-06:00
 
 ====== Thomo - Water ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum:Planes|back]]
 
 The timeless sea, the birthplace of the Ilithid
 
-Home of Weiss
+Home of [[ordum:Religion:Weiss the Holy|Weiss]]

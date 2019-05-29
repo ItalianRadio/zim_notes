@@ -3,8 +3,8 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-05-28T16:11:02-06:00
 
 ====== Faewild ======
-Created Tuesday 28 May 2019
+Created Tuesday 28 May 2019 - [[Ordum:Planes|back]]
 
-Home to Nyce
+Home to [[ordum:Religion:Nyce the Formless|Nyce]]
 
 Connected to Ordum via [[Ordum:Places:Granzund:Asharia:The Wode|The Wode]]
