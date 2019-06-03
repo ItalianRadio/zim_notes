@@ -1,0 +1,57 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-03T10:32:43-06:00
+
+====== Magical Items Homebrew ======
+Created Monday 03 June 2019
+
+$Armor of Arrow Attraction	Gives those attacking you with projectiles a +10 to hit you
+$Armor of Rage	Makes foes angry at you. +2 to hit w/in 15ft. while wearing this armor cause they so mad, enemies more likely to attack you w/in 15 ft.
+$Weapon of Blood	Only gives its enhancement bonuses after it's covered in blood
+Backbiter	If you roll a 1 to hit, reroll the attack against yourself!
+Bagpipes of Stealth	Grants a character playing the bagpipes invisibility. Just the character, not anything they're carrying
+Berserking $Weapon	Puts you in a Rage (Barbarian lvl 11) +3 damage when drawn. Attack the closest person w/in 30 ft, when no one w/in 30ft rage ends
+Black Keys (dual shortswords)	Put together (BA) = Longsword, thrown weapon 20/60 Range, Returning, 1 throw = 2 attacks (A)
+Blink Dog Blades (dagger)	1/day on hit dimension door to w/in 5ft of target. Returning (A)
+Blood-Soaked Cape	Take 15dmg 1turn, blood on melee weps, +4d6 next melee atk. After 7 uses +4d8 -1 Wis (RC5) After 12 uses +4d10 -1Wis (RC6), After 17 uses -2Con (RC7), After 18 uses you disappear into shadow and come back 1d4 days later in the cloak as a revenant (Sunlight sensitivity, -2Wis (RC8), below 1/2 HP, heal prof beginning of turn) cloak deals +4d6 again (A)
+Bloodlust $Armor	Can rage as a 1st level Barb, 1 level exhaustion after rage (A)
+Bloodraker	+5 (stacking) temp HP on kill, while you have Mudraker temp HP, Adv ST, attacks, skills. Kill every 2 days or this becomes a nonmagical weapon
+Boastful $Weapon	Deals 1 dmg until you flatter it, then it deals 1 die dmg higher until a rest
+Boots of Dancing	Boots of Elvenkind + Whenever you attempt to run from an enemy you are forced to dance, setting your maximum movement to 15 ft.
+Bracers of Opportunity	Moving ALWAYS provokes AoO, BA dash
+Breastplate of Unparalleled Protection	(RC8) Feel no pain, On KO 1-5 times +1 to AC, 6 -10 MS/No flight, 7 Res phys, 8 Immune non-magic phys, 9 No eat/drink/breath/age, 10+ 8th level petrify 
+Cestus of Abduction	On hit DC 8 + prof + Con ST. On fail, you move up to 5ft(no provoking), move foe anywhere w/in 5ft of you (A)
+Club of the Spring	Uses Int to hit and dmg. On dmg, ally w/in 5ft gets shield AC (A)
+Coat of the Duelist	+ Dex to AC, Each time you attack or impose a ST on a foe w/in 30ft, casts Compelled Duel as if your target had casted it w/ a ST of 15. (A)
+Crystal Orb of Frustration	1/day when you know the roll, but before result, add +2 to DC of a spell. (SF)(A)
+Dead Eye's Eyepatch	4 charges, regain 1d4+1/day, 1C: gain advantage on a ranged attack roll (Before roll), Intimidation prof, DAdv Perception (RC3)(A)
+Dirge	+1d6 poison damage, poison seems to just fall off the weapon
+Dragon Mask	+1 All ST, Dragonborn breath (A)
+Fate and Karma (dual daggers)	Both: Returning, 1/day Fan of Daggers: Action, enemies w/in 30ft Dex ST = 8+prof+Dex mod fail: 8d6 slash dmg, pass = 1/2 dmg; Fate: 2/day reroll a d20; Karma: reroll 1's on damage from daggers (A - use 1 attunement to wield 1 or both)
+Filth	4 charges, regain 1d4+1/day, 1C: on hit +2d4 necrotic damage
+Grodak's Crayon of Dictation	Approximately writes everything you say while activated in crayon, messy, all CAPS, and 90% misspelled
+Jackal Mask	1/SR Adv on atk roll. Prof in Dex ST (A)(RC3)
+Lifewell	Action, Heals you to full, age 10 years on use
+Lodestone	Halves movespeed, no flight. (RC3)
+Loincloth of the Mighty	While wearing ONLY the loincloth (no bags/belts, only other thing on your person allowed is weapons) +1 AC, +1 to hit & dmg w/ 2H wep, +prof to Intimidation
+Moonlight Longsword	Use a wep other than this 3 times, this becomes a non-magic longsword you aren't prof w/. Each time deal dmg whispers secrets, if fail gain indefinite madness from DMG, after 10 times DC12 WisST, then 2H deals +1d6 radiant. after 20 DC15 WisST, then wep has 6 charges, regain 1d6+1 each LR. Moonlight Burst(4C): 1/day DC8+prof+Int DexST 20ft radius 3d6radiant + 3d6force, half on save. after 30 DC18 WisST, then Moonlight Slash(1C): atk this turn w/ 30ft range. after 40 DC20 WisST, failing Moonlight Burst knocks prone. after 50 DC22 WisST, atks made w/ this wep deal +1d6+Int in radiant dmg. (A)
+Paloma's $Weapon	On crit +char level in damage (A)
+Prism Glaive	+1d8 dmg 1/turn, roll 1d8 on initiative, start there. 1:fire, 2:cold, 3:lightning, 4:thunder, 5:poison, 6:necrotic, 7:acid, 8:heal self 1d8
+Quadraquarterstaff	Shifts into ANY polearm as a reaction or when drawn. When stowed shifts into a bamboo staff
+Radnelak Cutlass	During day deals +1d8 necrotic dmg, during night, you're a skeleton, gain vul radiant & +cha temp hp every turn (A)
+Ring of Ancillary Jewelry	Wearer can wear an extra ring, Cursed? (A?)
+Ring of Chilling Comfort	BA, Chills drinks in your hand. Res Cold
+Ring of Fire Detection	Glows red when in fire
+Ring of Infinite Wonders	Roll on this chart: https://drive.google.com/file/d/0B3Jok3IwR5wjcGlGeW5FVEZodU0/view results are performed as favorably as possible (i.e. bad things happen to bad guys, good things good guys)
+Ring of Invisibility	Ring is invisible when worn
+Ring of Invulnerablility	Ring cannot be destroyed
+Ring of Mutual Ignorance	You're invisible to creatures you are not aware of
+Ring of Silence	You cannot make noise. Adv on Stealth, no talking/spells (RC3) (A)
+Robe of Powerlessness	While you wear it Str and Int set to 7. Take it off and everything's fine
+Robe of Vermin [Robe of Magic Res]	-2 Initiative, DisAdv Conc ST, Magic resistance (A)(RC3)
+Sea Seeker	If you make 1 atk on a turn & only use this weapon it deals 1d20 dmg instead of normal dmg cause pirates
+Starkiller	1/day cast melf's minute meteors targeting each enemy w/in 120ft twice. DC8+prof+SCM(sky goes black, no sun, all stars) Causes the user to fall unconcious for 1 minute on use
+The Bag of Rat	Pull out a rat once every 5 min. Same rat.
+The Frayed Blade	6 charges, regain 1d6+1/day, 2C: As an attack, 30ft line DC 8+prof+Dex/Str DexST or deal atk dmg. 4C: Adv on atks w/ this wep this turn. Atk w/ other wep DC  8+prof+Dex/Str WisST or you can't use other wep. Move +30ft away DC 8+prof+Dex/Str WisST or you run back. Fail ST's gain indefinite madness from DMG
+Wand of Wand Creation	Disintigrates on use, creates a Wand of Wand Creation
+Ring of Servitude	4 charges, regain 4 charges each morning. 1 charge: Cast Tiny Servant with no concentration
