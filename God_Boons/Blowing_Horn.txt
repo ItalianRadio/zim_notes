@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:44:35-06:00
 ====== Blowing Horn ======
 Created Monday 03 June 2019
 
+**Boon of Encouragement**
+''Ability: Rally''
+//You inspire those around you.//
+1/SR; BA Activate; Shout, +Bless to everyone that heard; 1 min

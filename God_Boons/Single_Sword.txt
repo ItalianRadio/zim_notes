@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:44:40-06:00
 ====== Single Sword ======
 Created Monday 03 June 2019
 
+**Boon of Fierceness**
+''Ability: Fierce''
+//An animal force instills in you a savage ferocity//
+1/SR; Crit on a 19

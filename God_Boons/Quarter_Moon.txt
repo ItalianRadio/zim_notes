@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:44:53-06:00
 ====== Quarter Moon ======
 Created Monday 03 June 2019
 
+**Boon of Health**
+''Ability: Second Wind''
+//Adrenaline revives and drives you onward//
+1/LR; A Activate; Recover as if you SR

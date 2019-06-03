@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:44:47-06:00
 ====== Crossed Swords ======
 Created Monday 03 June 2019
 
+**Boon of Rage**
+''Ability: Whirlwind''
+//The bloodlust fills your mind//
+Drop a foe; Free attack with same melee weapon; No moving; Free retry

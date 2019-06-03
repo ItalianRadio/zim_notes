@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:44:20-06:00
 ====== Leaf ======
 Created Monday 03 June 2019
 
+**Boon of Nature**
+''Ability: Nature's Ally''
+//Natural forces are aligned with you.//
+1/SR; +5 to a Wis skill/check/save (non-attack)

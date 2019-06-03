@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:44:28-06:00
 ====== 4 Arrows ======
 Created Monday 03 June 2019
 
+**Boon of Aim**
+''Ability: Deadeye''
+//Your ancestors keep your weapon's aim true.//
+1/SR; +5 on attack roll, can use after roll, but before you know the result

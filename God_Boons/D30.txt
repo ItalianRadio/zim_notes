@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:44:07-06:00
 ====== D30 ======
 Created Monday 03 June 2019
 
+**Boon of Accuracy**
+''Ability: Chosen One''
+//Fates grant you a chance to be great.//
+1/SR; Miss w/ Adv, reroll both D20s

@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:45:36-06:00
 ====== Lightning Bolt ======
 Created Monday 03 June 2019
 
+**Boon of Energy**
+''Ability: Energize''
+//Your spells and abilities are empowered by the gods.//
+1/SR; +2 DC of spell/ability; Free retry

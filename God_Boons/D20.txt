@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:44:04-06:00
 ====== D20 ======
 Created Monday 03 June 2019
 
+**Boon of Inspiration**
+''Ability: Inspiration''
+//Forces and fate are aiding you in your quest.//
+1/SR; Gain Adv or offset Dis; Before taking action

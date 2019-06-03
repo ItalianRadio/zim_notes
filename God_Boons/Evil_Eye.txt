@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:44:13-06:00
 ====== Evil Eye ======
 Created Monday 03 June 2019
 
+**Boon of Awareness**
+''Ability: Evil Eye''
+//Opposing forces push for your demise.//
+1/SR; A Activate; taunt enemies 10 feet, +2 AC 1 round; Free retry

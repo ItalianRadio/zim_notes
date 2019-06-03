@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:44:16-06:00
 ====== Book ======
 Created Monday 03 June 2019
 
+**Boon of Epiphany**
+''Ability: Epiphany''
+//Your clear mind recalls important facts.//
+Proficiency in 2 Int skills; If have all, expertise

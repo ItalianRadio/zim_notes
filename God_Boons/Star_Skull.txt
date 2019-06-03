@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:44:58-06:00
 ====== Star Skull ======
 Created Monday 03 June 2019
 
+**Boon of Memory**
+''Ability: Recall''
+//A portion of your mind recalls your last spell.//
+1/SR; BA Activate; Regain a spell slot up to 5th level; Free retry

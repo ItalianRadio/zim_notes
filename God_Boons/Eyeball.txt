@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:45:11-06:00
 ====== Eyeball ======
 Created Monday 03 June 2019
 
+**Boon of Perception**
+''Ability: Perceptive''
+//Your mind is sharp and alert//
+Gain Prof/Expertise in Perception; If you have Expertise Free retry

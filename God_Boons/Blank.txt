@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:44:30-06:00
 ====== Blank ======
 Created Monday 03 June 2019
 
+**Boon of Choice**
+''Ability: Blessed''
+//Favor follows you.//
+Gain a feat

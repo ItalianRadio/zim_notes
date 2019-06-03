@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:43:39-06:00
 ====== Heart ======
 Created Monday 03 June 2019
 
+**Boon of Fate**
+''Ability: Fated''
+//You see the future//
+Portent on SR, but 1 die

@@ -5,3 +5,7 @@ Creation-Date: 2019-06-03T09:42:33-06:00
 ====== Shield ======
 Created Monday 03 June 2019
 
+**Boon of Protection**
+''Ability: Protection''
+//A mystic force is protecting you.//
+1/SR; R Activate; Using your SA cast Sanctuary or Shield; Free retry
